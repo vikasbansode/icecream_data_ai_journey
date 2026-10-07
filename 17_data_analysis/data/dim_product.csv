@@ -1,0 +1,16 @@
+product_key,product_id,product_name,category,unit_price,unit_cost
+1,P001,Vanilla,Classic,90,35
+2,P002,Chocolate,Classic,100,40
+3,P003,Strawberry,Classic,110,42
+4,P004,Mango,Fruit,120,45
+5,P005,Butterscotch,Premium,140,55
+6,P006,Pistachio,Premium,160,65
+7,P007,Cookies & Cream,Premium,150,60
+8,P008,Kulfi,Traditional,130,50
+9,P009,Black Currant,Fruit,125,48
+10,P010,Coffee,Classic,115,44
+11,P011,Tender Coconut,Fruit,135,52
+12,P012,Rajbhog,Traditional,145,56
+13,P013,Salted Caramel,Premium,175,70
+14,P014,Blueberry,Fruit,155,62
+15,P015,Mango Sorbet,Sorbet,130,48

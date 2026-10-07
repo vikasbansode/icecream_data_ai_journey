@@ -1,0 +1,22 @@
+# Included Phases
+
+- 01_business_understanding
+- 02_business_questions
+- 03_data_requirements
+- 04_requirement_gathering
+- 05_data_sources
+- 06_source_data_discovery
+- 07_data_collection
+- 08_data_ingestion
+- 09_raw_layer
+- 10_data_cleaning
+- 11_staging_layer
+- 12_data_transformation
+- 13_data_modeling
+- 14_data_warehouse
+- 15_data_mart
+- 16_technical_data_discovery
+- 17_data_analysis
+- 18_data_visualization
+- 19_bi_and_reporting
+- 20_data_analysis_automation
