@@ -1,0 +1,16 @@
+category,product_name,units,sales,profit
+Classic,Chocolate,616,56855.0,32215.0
+Classic,Coffee,440,46632.5,27272.5
+Classic,Strawberry,630,62507.5,36047.5
+Classic,Vanilla,504,42133.5,24493.5
+Fruit,Black Currant,507,57387.5,33051.5
+Fruit,Blueberry,491,68936.25,38494.25
+Fruit,Mango,521,57528.0,34083.0
+Fruit,Tender Coconut,543,67668.75,39432.75
+Premium,Butterscotch,518,66654.0,38164.0
+Premium,Cookies & Cream,458,63172.5,35692.5
+Premium,Pistachio,621,90944.0,50579.0
+Premium,Salted Caramel,515,83912.5,47862.5
+Sorbet,Mango Sorbet,546,64350.0,38142.0
+Traditional,Kulfi,584,68679.0,39479.0
+Traditional,Rajbhog,488,66511.5,39183.5
