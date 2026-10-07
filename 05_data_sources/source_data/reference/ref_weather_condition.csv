@@ -1,0 +1,7 @@
+weather_condition_code,weather_condition_name,active_flag
+001,Sunny,Y
+002,Cloudy,Y
+003,Rainy,Y
+004,Stormy,Y
+005,Hot,Y
+006,Cool,Y
