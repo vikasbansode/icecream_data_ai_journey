@@ -1,0 +1,5 @@
+<suppliers>
+  <supplier><supplier_id>SUP001</supplier_id><supplier_name>Fresh Dairy Foods</supplier_name><supplier_type>Dairy</supplier_type></supplier>
+  <supplier><supplier_id>SUP002</supplier_id><supplier_name>Fruit Hub</supplier_name><supplier_type>Fruit</supplier_type></supplier>
+  <supplier><supplier_id>SUP003</supplier_id><supplier_name>Cone & Cup Co</supplier_name><supplier_type>Packaging</supplier_type></supplier>
+</suppliers>

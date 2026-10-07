@@ -1,0 +1,6 @@
+payment_method_code,payment_method_name,active_flag
+001,Cash,Y
+002,Card,Y
+003,UPI,Y
+004,Wallet,Y
+005,Net Banking,Y

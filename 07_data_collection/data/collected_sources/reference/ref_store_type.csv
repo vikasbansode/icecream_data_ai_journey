@@ -1,0 +1,5 @@
+store_type_code,store_type_name,active_flag
+001,Mall,Y
+002,High Street,Y
+003,Kiosk,Y
+004,Drive Through,Y

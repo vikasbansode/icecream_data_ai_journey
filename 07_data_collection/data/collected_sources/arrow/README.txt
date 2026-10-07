@@ -1,0 +1,1 @@
+Run generate_source_formats.py after installing pyarrow to create this Arrow source.

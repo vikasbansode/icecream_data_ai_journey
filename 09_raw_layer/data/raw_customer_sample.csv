@@ -1,0 +1,26 @@
+customer_id,customer_name,city,state,segment
+C001,Customer 001,Nashik,Maharashtra,Family
+C002,Customer 002,Nagpur,Maharashtra,Student
+C003,Customer 003,Pune,Maharashtra,Business
+C004,Customer 004,Pune,Maharashtra,Professional
+C005,Customer 005,Aurangabad,Maharashtra,Student
+C006,Customer 006,Aurangabad,Maharashtra,Family
+C007,Customer 007,Pune,Maharashtra,Student
+C008,Customer 008,Nagpur,Maharashtra,Tourist
+C009,Customer 009,Pune,Maharashtra,Family
+C010,Customer 010,Pune,Maharashtra,Business
+C011,Customer 011,Nagpur,Maharashtra,Student
+C012,Customer 012,Aurangabad,Maharashtra,Student
+C013,Customer 013,Mumbai,Maharashtra,Business
+C014,Customer 014,Pune,Maharashtra,Business
+C015,Customer 015,Aurangabad,Maharashtra,Tourist
+C016,Customer 016,Pune,Maharashtra,Family
+C017,Customer 017,Pune,Maharashtra,Business
+C018,Customer 018,Mumbai,Maharashtra,Professional
+C019,Customer 019,Nagpur,Maharashtra,Family
+C020,Customer 020,Aurangabad,Maharashtra,Student
+C021,Customer 021,Aurangabad,Maharashtra,Professional
+C022,Customer 022,Aurangabad,Maharashtra,Family
+C023,Customer 023,Pune,Maharashtra,Business
+C024,Customer 024,Aurangabad,Maharashtra,Family
+C025,Customer 025,Nashik,Maharashtra,Student

@@ -1,0 +1,5 @@
+customer_segment_code,customer_segment_name,active_flag
+001,Individual,Y
+002,Student,Y
+003,Family,Y
+004,Corporate,Y

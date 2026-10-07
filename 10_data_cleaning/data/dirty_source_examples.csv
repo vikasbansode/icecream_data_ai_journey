@@ -1,0 +1,5 @@
+customer_id,customer_name,city,sale_date,quantity,unit_price
+C001, Vikas ,pune,15-02-2026,2,100
+ C001 ,VIKAS BANSODE,PUNE ,03/04/2026,4,120
+C002,Anita,Nashik,2026-05-04,abc,-50
+C003, Anita , nashik,31-13-2026,0,90

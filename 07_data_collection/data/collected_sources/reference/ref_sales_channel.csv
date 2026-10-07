@@ -1,0 +1,5 @@
+sales_channel_code,sales_channel_name,active_flag
+001,Store,Y
+002,Online,Y
+003,Delivery,Y
+004,Mobile App,Y
